@@ -136,4 +136,7 @@ p,  .linkedIn {
 		margin: auto;
 		float: none;
 	}
+	.display-3 {
+		margin-top: 30px;
+	}
 }
