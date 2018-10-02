@@ -68,6 +68,9 @@ h1 {
 	height: 175px;
 }
 
+.row {
+	margin: auto;
+}
 
 .figimage, .portfolioLinkButtons {
 	border-style: solid;
@@ -125,3 +128,12 @@ p,  .linkedIn {
 	width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+	.figure {
+		padding: 10px;
+    position: relative;
+		width: 75%;
+		margin: auto;
+		float: none;
+	}
+}
